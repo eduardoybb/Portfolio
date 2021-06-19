@@ -1,0 +1,7 @@
+.main-timeline:before {
+    background: none !important;
+}
+.main-timeline .timeline-icon {
+    top: 50px !important;
+    right: -50px !important;
+}
