@@ -24,7 +24,7 @@ document.write('<!-- Header -->' +
             '<div class="site-nav">' +
                 '<!-- Main menu -->' +
                 '<ul class="header-main-menu" id="header-main-menu">' +
-                    '<li><a class="active" href="index.html"><i class="fas fa-home"></i> Home</a></li>' +
+                    '<li><a href="index.html"><i class="fas fa-home"></i> Home</a></li>' +
                     '<li><a href="about.html"><i class="fas fa-user-tie"></i> About Me</a></li>' +
                     '<li><a href="resume.html"><i class="fas fa-award"></i> Resume</a></li>' +
                     '<li><a href="portfolio.html"><i class="fas fa-business-time"></i> Portfolio</a></li>' +
@@ -33,7 +33,7 @@ document.write('<!-- Header -->' +
                 '<!-- Main menu -->' +
                 '<!-- Copyrights -->' +
                 '<div class="copyrights">© 2021 All rights reserved.</div>' +
-                '<!--  Copyrights -->' +
+                '<!-- Copyrights -->' +
             '</div>' +
             '<!-- Navigation -->' +
         '</div>' +
@@ -46,5 +46,5 @@ document.write('<!-- Header -->' +
         '</div>' +
         '<span class="responsive-icon"><i class="lnr lnr-menu"></i></span>' +
     '</div>' +
-    '<!-- Mobile Header -->"');
+    '<!-- Mobile Header -->');
 document.close();
