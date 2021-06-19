@@ -1,3 +1,4 @@
+
 /* ================================================
  [  Table of contents  ]
  ================================================
@@ -43,13 +44,13 @@
 
 /******  Google fonts ******/
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
-@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700);
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,500,600,700");
 
 /****** Font Awesome icons font ******/
 @import url("fontawesome.min.css");
 
 /****** Linearicons icons Font ******/
-@import url("linearicons.min.css");
+@import url("https://cdn.linearicons.com/free/1.0.0/icon-font.min.css");
 
 /****** 7 stroke icons font ******/
 @import url("pe-icon-7-stroke.min.css");
