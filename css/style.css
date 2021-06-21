@@ -1475,9 +1475,13 @@ span.typed {
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -o-transition: all 0.2s ease-in-out;
-  -ms-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
+
+.counter-block {
+  -ms-transition: all 0.2s ease-in-out;
+}
+
 .counter-block::before,
 .counter-block::after {
   border-style: solid;
