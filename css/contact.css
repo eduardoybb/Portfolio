@@ -51,3 +51,15 @@
     display: none;
   }
 }
+.map-outer{
+  position: relative;
+  text-align: right;
+  height: 100%;
+  width: 100%;
+}
+.map-canvas {
+  overflow: hidden;
+  background: none!important;
+  height: 100%;
+  width: 100%;
+}
